@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Persona" ALTER COLUMN "email" SET DATA TYPE VARCHAR(50);
